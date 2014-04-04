@@ -1,0 +1,1 @@
+IniciandoComTestesRubyUsandoRspec::Application.config.secret_token = '4359ece0c3318219a5ce60fe60a9bb71f5439170545f7b8423f1b6f0c76e169519e4b6fd3386eaf57aca77bc5ace9f594a65f35479f0ac0f1930a492faa8027b'

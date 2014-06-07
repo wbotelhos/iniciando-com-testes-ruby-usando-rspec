@@ -1,5 +1,3 @@
-# Iniciando com Testes Ruby Usando RSpec
-
 [![Build Status](https://img.shields.io/travis/wbotelhos/iniciando-com-testes-ruby-usando-rspec/master.svg)](https://travis-ci.org/wbotelhos/iniciando-com-testes-ruby-usando-rspec "Travis CI")
 [![Code Climate](https://codeclimate.com/github/wbotelhos/iniciando-com-testes-ruby-usando-rspec.png)](https://codeclimate.com/github/wbotelhos/iniciando-com-testes-ruby-usando-rspec "Code Climate")
 [![Support wbotelhos.com](http://img.shields.io/gittip/wbotelhos.svg)](https://www.gittip.com/wbotelhos "Git Tip")

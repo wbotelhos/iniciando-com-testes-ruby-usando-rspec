@@ -1,8 +1,7 @@
 *.sw[pon]
 *~
+.bundle
 .DS_Store
-.sass-cache
-/.bundle
-/db/*
-/log/*
-/tmp
+.sqlite3
+log/*
+tmp
